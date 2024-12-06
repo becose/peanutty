@@ -1,0 +1,34 @@
+Metadata-Version: 2.1
+Name: BankingSystems
+Version: 0.0.1
+Summary: Basic banking system with several features: deposit, withdrawal, transfer, balance checks
+Home-page: 
+Author: Ahriel Young
+Author-email: ayoung08@rams.shepherd.edu
+License: MIT
+Keywords: banking system,ATM program
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+
+# This is my Package Assignment
+Packaging the Banking Systems
+1. It is a very basic banking system with several features:
+   a. Deposits
+   b. Withdrawals
+   c. Check Balances in Savings or Checking Account 
+   d. Transfers between Accounts
+2. It contains 5 functions not including Main()
+   a. deposit()
+   b. withdraw_funds()
+   c. show_balance()
+   d. transfer()
+   e. show_account_balance()
+
+Change Log
+===========================
+0.0.1 (12/06/2024)
+------------------
+- First Release
