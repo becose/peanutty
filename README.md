@@ -1,6 +1,6 @@
 # This is my Package Assignment
 Packaging the Banking Systems
-1. It is a very basic banking system with several features:
+1. Very basic banking system with several features:
    a. Deposits
    b. Withdrawals
    c. Check Balances in Savings or Checking Account 
